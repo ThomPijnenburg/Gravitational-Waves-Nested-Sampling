@@ -1,0 +1,35 @@
+Generated 3000 live points
+
+Start nested sampling routine: 
+
+Loop nr 1000, smallest likelihood= 0.458299437963732, highest prior mass= 0.693031683688083, evidence= 0.097612809767283 
+Loop nr 2000, smallest likelihood= 0.578462949756259, highest prior mass= 0.490557482117044, evidence= 0.202544551956361 
+Loop nr 3000, smallest likelihood= 0.656704692587125, highest prior mass= 0.350515742673268, evidence= 0.288898151083344 
+Loop nr 4000, smallest likelihood= 0.718823807698590, highest prior mass= 0.252080844767648, evidence= 0.356536283254348 
+Loop nr 5000, smallest likelihood= 0.768495635600026, highest prior mass= 0.181088720461011, evidence= 0.409332861338149 
+Loop nr 6000, smallest likelihood= 0.804718734097988, highest prior mass= 0.130835500173257, evidence= 0.448869786985953 
+Loop nr 7000, smallest likelihood= 0.833013507033370, highest prior mass= 0.091983967708988, evidence= 0.480691355542054 
+Loop nr 8000, smallest likelihood= 0.854206959538373, highest prior mass= 0.065327576499328, evidence= 0.503180208609124 
+Loop nr 9000, smallest likelihood= 0.869316731615095, highest prior mass= 0.046077041670766, evidence= 0.519769910316480 
+Loop nr 10000, smallest likelihood= 0.880244237062416, highest prior mass= 0.032647668659493, evidence= 0.531518048595451 
+Loop nr 11000, smallest likelihood= 0.888666740382231, highest prior mass= 0.023432951902290, evidence= 0.539666765810711 
+Loop nr 12000, smallest likelihood= 0.894542011208043, highest prior mass= 0.016997398961507, evidence= 0.545404945024077 
+Loop nr 13000, smallest likelihood= 0.898606583871293, highest prior mass= 0.012151982852741, evidence= 0.549749697524865 
+Loop nr 14000, smallest likelihood= 0.901701971286742, highest prior mass= 0.008705276575707, evidence= 0.552852199391555 
+Loop nr 15000, smallest likelihood= 0.903804910049504, highest prior mass= 0.006380141867580, evidence= 0.554951245913368 
+Loop nr 16000, smallest likelihood= 0.905360110617125, highest prior mass= 0.004581160333004, evidence= 0.556578617782215 
+Loop nr 17000, smallest likelihood= 0.906474922237347, highest prior mass= 0.003331016834816, evidence= 0.557711112936103 
+Loop nr 18000, smallest likelihood= 0.907303269986785, highest prior mass= 0.002380695714679, evidence= 0.558572937603286 
+Loop nr 19000, smallest likelihood= 0.907912805140650, highest prior mass= 0.001724688436927, evidence= 0.559168338221378 
+Loop nr 20000, smallest likelihood= 0.908352140316387, highest prior mass= 0.001214883967077, evidence= 0.559631301872063 
+Loop nr 21000, smallest likelihood= 0.908672320390397, highest prior mass= 0.000864169885401, evidence= 0.559949929621735 
+Loop nr 22000, smallest likelihood= 0.908897080451663, highest prior mass= 0.000607900521777, evidence= 0.560182823967566 
+Loop nr 23000, smallest likelihood= 0.909060908843331, highest prior mass= 0.000441149408381, evidence= 0.560334397402344 
+Loop nr 24000, smallest likelihood= 0.909176405737584, highest prior mass= 0.000317141247974, evidence= 0.560447135781980 
+Loop nr 25000, smallest likelihood= 0.909256120683333, highest prior mass= 0.000228688135869, evidence= 0.560527558736647 
+Loop nr 26000, smallest likelihood= 0.909314680253133, highest prior mass= 0.000165825804395, evidence= 0.560584718616762 
+Loop nr 27000, smallest likelihood= 0.909356131059803, highest prior mass= 0.000118158213842, evidence= 0.560628064473246 
+Loop nr 28000, smallest likelihood= 0.909384941003085, highest prior mass= 0.000085122523462, evidence= 0.560658106162090 
+Accuracy reached! Computation terminated after 28920 iterations.
+
+Evidence integral = 0.5606794967 
